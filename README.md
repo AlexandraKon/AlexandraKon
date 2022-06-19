@@ -1,22 +1,22 @@
 <h3 align="center"> Hi there! I'm Alexandra 👋</h3>
-<ul align="center">
-    <li><a href="https://alexandrakononenko.netlify.app/">Website</a> •</li>
-    <li><a href="https://www.linkedin.com/in/alexandra-kononenko-259810219?original_referer=https%3A%2F%2Falexandrakononenko.netlify.app%2F">LinkedIn</a> •</li>
-    <li><a href="alexandravkononenko@gmail.com">Gmail</a> •</li>
-    <li><a href="https://www.instagram.com/alexandra.kn">Instagram</a></li>
-</ul>
----
+<p align="center">
+    <a href="https://alexandrakononenko.netlify.app/">Website</a> •
+    <a href="https://www.linkedin.com/in/alexandra-kononenko-259810219?original_referer=https%3A%2F%2Falexandrakononenko.netlify.app%2F">LinkedIn</a> •
+    <a href="alexandravkononenko@gmail.com">Gmail</a> •
+    <a href="https://www.instagram.com/alexandra.kn">Instagram</a>
+</p>
+<hr>
 ✨ Currently I’m looking for a job as a Front-end developer 
 🔑 I’m studying the development of web pages and multi applications in <a href="https://www.lasallegracia.cat/ca/cfgs/tecnologia"> La Salle Gràcia</a>
 🏆 Also I’m currently studying FrontEnd in <a href="https://teachmeskills.by/">TeachMeSkills</a>
+<hr>
+<h4> 🔑 My Skills:</h4>
+<h5>- 💻 Front-end: </h5>
+<p>HTML, SCSS, JavaScript, TypeScript, React </p>
+<h5>- Back-end: </h5>
+<p>Java, MySQL, Python, Node Js, PHP </p>
 ---
-- 🔑 My Skills:
-💻 Front-end: 
-HTML, SCSS, JavaScript, TypeScript, React
-- Back-end:
-Java, MySQL, Python, Node Js, PHP
----
-- 💻 My Projects
+<h4> 💻 My Projects </h4>
 
 <details><summary><b>👨‍🚀 HTML and CSS</b></summary>
     <ul>
