@@ -17,7 +17,7 @@
 <b>⚡ Back-end:</b>
     <p>Java, MySQL, Python, Node Js, PHP </p>
 <hr>
-<h4> 🔭 My Projects </h4>
+<h4> 🔭 My Projects: </h4>
 <details><summary><b>👨‍🚀 HTML and CSS</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/JugglerCSS">Juggler (CSS animation)</a></li>
@@ -41,18 +41,3 @@
 </details>
 
 ![](https://komarev.com/ghpvc/?username=AlexandraKon)
-
-<!--
-**AlexandraKon/AlexandraKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
