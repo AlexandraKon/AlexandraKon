@@ -30,7 +30,7 @@
   <ul>
     <li><a href="https://github.com/AlexandraKon/Timer-Project">Timer</a></li>
     <li><a href="https://github.com/AlexandraKon/NEW-ToDo-List">ToDo List</a></li>
-    <li><a href="https://github.com/AlexandraKon/Calculator-BMI">CAlculator-BMI</a></li>
+    <li><a href="https://github.com/AlexandraKon/Calculator-BMI">Calculator-BMI</a></li>
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
