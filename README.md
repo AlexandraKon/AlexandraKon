@@ -17,7 +17,7 @@
 <b>💻 Front-end:</b>
     <p>HTML, SCSS, JavaScript, TypeScript, React </p>
 <b>⚡ Back-end:</b>
-    <p>Java, MySQL, Python, PHP </p>
+    <p>Java, MySQL </p>
 <hr>
 <h4> 🔭 My Projects: </h4>
 <details><summary><b>👨‍🚀 HTML and CSS</b></summary>
