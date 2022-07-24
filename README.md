@@ -8,7 +8,6 @@
 <hr>
     <p>✨ Currently I’m looking for a job as a Front-end developer ✨</p>
    <p>🧑‍🎓 I’m studying web and multi-application development at university</p>
-   <p>😍 I’m living in Barcelona</p>
    <p>🌍 I speak English, Spanish, Catalan, Russian and Kazakh</p>
     <p>🏆 Also I’m currently studying FrontEnd in <a href="https://teachmeskills.by/" target="_blank">TeachMeSkills</a></p>
 
