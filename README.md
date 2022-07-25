@@ -14,7 +14,7 @@
 <hr>
 <h4> 🔑 My Skills:</h4>
 <b>💻 Front-end:</b>
-    <p>HTML, CSS, JavaScript, TypeScript, React </p>
+    <p>HTML, CSS, JavaScript, TypeScript, React, Redux </p>
 <b>⚡ Back-end:</b>
     <p>Java, MySQL </p>
 <hr>
