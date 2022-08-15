@@ -1,5 +1,4 @@
-<h3 align="center"> Hi there!👋 </h3> 
-<h3 align="center">I'm Alexandra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"></h3> 
+<h3 align="center"> Hi there! I'm Alexandra 👋 </h3> 
 <p align="center">
     <a href="https://alexandrakononenko.netlify.app/" target="_blank">Website</a> •
     <a href="https://www.linkedin.com/in/alexandra-kononenko-259810219?original_referer=https%3A%2F%2Falexandrakononenko.netlify.app%2F" target="_blank">LinkedIn</a> •
@@ -44,7 +43,7 @@
         <li><a href="">Books-Library</a></li>
     </ul>
 </details>
-<details><summary><b>💣 Java</b></summary>
+<details><summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Java</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/FlappyBird-Game.git">Flappy Bird Game</a></li>
     </ul>
