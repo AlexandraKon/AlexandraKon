@@ -34,9 +34,7 @@
   </ul>
 </details>
 <details><summary><b>TypeScript</b></summary>
-    <ul>
-        
-    </ul>
+    
 </details>
 <details><summary><b>React</b></summary>
     <ul>
