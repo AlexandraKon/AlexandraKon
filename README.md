@@ -43,14 +43,14 @@
         <li><a href="">Books-Library</a></li>
     </ul>
 </details>
-<details><summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Java</b></summary>
+<details><summary><b> :zap: Java</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/FlappyBird-Game.git">Flappy Bird Game</a></li>
     </ul>
 </details>
 <hr>
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraKon&layout=compact" />
    <br />
    
