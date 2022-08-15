@@ -33,7 +33,7 @@
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
-<details><summary><b>🪀 TypeScript</b></summary>
+<details><summary><b>🏹 TypeScript</b></summary>
     
 </details>
 <details><summary><b>👨‍💻 React</b></summary>
