@@ -33,17 +33,17 @@
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
-<details><summary><b>TypeScript</b></summary>
+<details><summary><b>🪀 TypeScript</b></summary>
     
 </details>
-<details><summary><b>React</b></summary>
+<details><summary><b>👨‍💻 React</b></summary>
     <ul>
         <li><a href="">Online-Store</a></li>
         <li><a href="">TripHouse</a></li>
         <li><a href="">Books-Library</a></li>
     </ul>
 </details>
-<details><summary><b>Java</b></summary>
+<details><summary><b>💣 Java</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/FlappyBird-Game.git">Flappy Bird Game</a></li>
     </ul>
