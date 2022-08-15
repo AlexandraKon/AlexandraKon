@@ -39,7 +39,7 @@
 <details><summary><b>React</b></summary>
     <ul>
         <li><a href="">Online-Store</a></li>
-        <li><a href=">TripHouse</a></li>
+        <li><a href="">TripHouse</a></li>
         <li><a href=">Books-Library</a></li>
     </ul>
 </details>
