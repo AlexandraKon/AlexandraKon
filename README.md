@@ -55,5 +55,6 @@
    <br />
    
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraKon&layout=compact&theme=vision-friendly-dark)]
 
 ![](https://komarev.com/ghpvc/?username=AlexandraKon)
