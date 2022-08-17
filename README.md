@@ -53,8 +53,5 @@
   <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraKon&layout=compact" />
    <br />
-   
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraKon&layout=compact&theme=vision-friendly-dark)]
-
 ![](https://komarev.com/ghpvc/?username=AlexandraKon)
