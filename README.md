@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! I'm Alexandra 👋 </h3> 
 <p align="center">
     <a href="https://alexandrakononenko.netlify.app/" target="_blank">Website</a> •
-    <a href="https://www.linkedin.com/in/alexandra-kononenko-259810219?original_referer=https%3A%2F%2Falexandrakononenko.netlify.app%2F" target="_blank">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/alexandra-kon/" target="_blank">LinkedIn</a> •
     <a href="alexandravkononenko@gmail.com" target="_blank">Gmail</a> •
     <a href="https://www.instagram.com/alexandra.knn" target="_blank">Instagram</a>
 </p>
