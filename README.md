@@ -40,7 +40,6 @@
         <li><a href="https://github.com/AlexandraKon/Netflix-Clone.git">Netflix</a></li>
         <li><a href="">Online-Store</a></li>
         <li><a href="">TripHouse</a></li>
-        
     </ul>
 </details>
 <details><summary><b> :zap: Java</b></summary>
