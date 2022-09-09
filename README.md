@@ -15,7 +15,7 @@
 <b>💻 Front-end:</b>
     <p>HTML&CSS, JavaScript, TypeScript, React, Redux </p>
 <b>⚡ Back-end:</b>
-    <p>Java, MySQL </p>
+    <p>Java, NodeJS, MySQL, MongoDB </p>
 <hr>
 <h4> 🔭 My Projects: </h4>
 <details><summary><b>👨‍🚀 HTML&CSS</b></summary>
