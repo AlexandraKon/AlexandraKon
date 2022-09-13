@@ -32,21 +32,12 @@
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
-<details><summary><b>🏹 TypeScript</b></summary>
-    
-</details>
 <details><summary><b>👨‍💻 React</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/Netflix-Clone.git">Netflix</a></li>
-        <li><a href="">Online-Store</a></li>
-        <li><a href="">TripHouse</a></li>
     </ul>
 </details>
-<details><summary><b> :zap: Java</b></summary>
-    <ul>
-        <li><a href="https://github.com/AlexandraKon/FlappyBird-Game.git">Flappy Bird Game</a></li>
-    </ul>
-</details>
+
 <hr>
 <details>
   <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
