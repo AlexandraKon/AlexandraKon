@@ -32,12 +32,32 @@
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
+<details><summary><b>TypeScript</b></summary>
+    <ul>
+        <li><a href=""></a></li>
+    </ul>
+</details>
 <details><summary><b>👨‍💻 React</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/Netflix-Clone.git">Netflix</a></li>
     </ul>
 </details>
-
+<details><summary><b>👨💻 Node.js</b></summary>
+    <ul>
+        <li><a href="">Blog with MongoDB (in progress)</a></li>
+        <li><a href="">Blog with MySQL (in progress)</a></li>
+    </ul>
+</details>
+<details><summary><b>PHP</b></summary>
+    <ul>
+        <li><a href=""></a></li>
+    </ul>
+</details>
+<details><summary><b>Java</b></summary>
+    <ul>
+        <li><a href="">Game</a></li>
+    </ul>
+</details>
 <hr>
 <details>
   <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
