@@ -4,6 +4,7 @@
     <a href="https://www.linkedin.com/in/alexandra-kon/" target="_blank">LinkedIn</a> •
     <a href="alexandra.kon.developer@gmail.com" target="_blank">Gmail</a> •
     <a href="https://www.instagram.com/alexandra.knn" target="_blank">Instagram</a>
+    <a href="https://www.instagram.com/alexandra.knn" target="_blank">Instagram</a>
 </p>
 <hr>
     <p>✨ Currently I’m looking for a job as a Front-end developer ✨</p>
