@@ -32,11 +32,6 @@
     <li><a href="https://github.com/AlexandraKon/Trello">Trello</a></li>
   </ul>
 </details>
-<details><summary><b>TypeScript</b></summary>
-    <ul>
-        <li><a href=""></a></li>
-    </ul>
-</details>
 <details><summary><b>👨‍💻 React</b></summary>
     <ul>
         <li><a href="https://github.com/AlexandraKon/Netflix-Clone.git">Netflix</a></li>
@@ -48,14 +43,9 @@
         <li><a href="">Blog with MySQL (in progress)</a></li>
     </ul>
 </details>
-<details><summary><b>PHP</b></summary>
-    <ul>
-        <li><a href=""></a></li>
-    </ul>
-</details>
 <details><summary><b>Java</b></summary>
     <ul>
-        <li><a href="">Game</a></li>
+        <li><a href="">Game (in progress)</a></li>
     </ul>
 </details>
 <hr>
