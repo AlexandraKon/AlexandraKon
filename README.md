@@ -8,7 +8,7 @@
 <hr>
     <p>✨ Currently I’m looking for a job as a Web Developer ✨</p>
    <p>🧑‍🎓 I’m studying web and multi-application development at university</p>
-   <p>🌍 I speak English, Spanish, Catalan and Russian</p>
+   <p>🌍 I speak English, Spanish, Kazakh and Russian</p>
 
 <hr>
 <h4> 🔑 My Skills:</h4>
