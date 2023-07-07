@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/alexandra.knn" target="_blank">Instagram</a>
 </p>
 <hr>
-    <p>✨ Currently I’m looking for a job as a Web Developer ✨</p>
+    <p>✨ Currently I’m looking working on MERN stack ✨</p>
    <p>🧑‍🎓 I’m studying web and multi-application development at university</p>
    <p>🌍 I speak English, Spanish, Kazakh and Russian</p>
 
