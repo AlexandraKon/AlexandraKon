@@ -42,6 +42,7 @@
         <li><a href="https://github.com/AlexandraKon/TimeRide.git">TimeRide</a></li>
     </ul>
 </details>
+
 <details><summary><b>👨 Java</b></summary>
     <ul>
         <li><a href="">Game (in progress)</a></li>
