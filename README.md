@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there! I'm Alexandra 👋 </h3> 
+<h3 align="center"> Hi there! I'm Alexandra 👋</h3> 
 <p align="center">
     <a href="https://aledevsolutions.com" target="_blank">Website</a> •
     <a href="https://www.linkedin.com/in/alexandra-kon/" target="_blank">LinkedIn</a> •
