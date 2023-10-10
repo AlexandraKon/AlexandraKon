@@ -54,5 +54,3 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraKon&layout=compact" />
    <br />
 </details>
-
-![](https://komarev.com/ghpvc/?username=AlexandraKon)
