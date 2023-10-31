@@ -6,8 +6,8 @@
     <a href="https://www.instagram.com/aledev.solutions" target="_blank">Instagram</a>
 </p>
 <hr>
-    <p>✨ Currently I’m looking working on MERN stack ✨</p>
-   <p>🧑‍🎓 I’m studying web and multi-application development at university</p>
+    <p>✨ Currently I’m working on Nuxt.js 3 and MERN stack ✨</p>
+   <p>🧑‍🎓 I’m studying Computer Science at University</p>
    <p>🌍 I speak English, Spanish, Kazakh and Russian</p>
 
 <hr>
