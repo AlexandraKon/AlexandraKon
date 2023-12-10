@@ -8,8 +8,7 @@
 <hr>
     <p>✨ Currently I’m working on Nuxt.js 3 and MERN stack ✨</p>
    <p>🧑‍🎓 I’m studying Computer Science at University</p>
-   <p>🌍 I speak English, Spanish, Kazakh and Russian</p>
-
+  
 <hr>
 <h4> 🔑 My Skills:</h4>
 <b>💻 Front-end:</b>
