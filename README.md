@@ -5,6 +5,7 @@
     <a href="aledevsolutions@gmail.com" target="_blank">Gmail</a> •
     <a href="https://www.instagram.com/aledev.solutions" target="_blank">Instagram</a>
 </p>
+
 <hr>
     <p>✨ Currently I’m working on Nuxt.js 3 and MERN stack ✨</p>
    <p>🧑‍🎓 I’m studying Computer Science at University</p>
