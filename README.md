@@ -3,7 +3,7 @@
     <a href="https://aledevsolutions.com" target="_blank">Website</a> •
     <a href="https://www.linkedin.com/in/alexandra-kon/" target="_blank">LinkedIn</a> •
     <a href="aledevsolutions@gmail.com" target="_blank">Gmail</a> •
-    <a href="https://www.instagram.com/aledev.solutions" target="_blank">Instagram</a>
+   
 </p>
 
 
