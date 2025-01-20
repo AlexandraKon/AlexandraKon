@@ -21,7 +21,6 @@
 <h4> 🔭 My Projects: </h4>
 <details><summary><b>👨‍🚀 HTML&CSS</b></summary>
     <ul>
-        
         <li><a href="https://github.com/AlexandraKon/JugglerCSS">Juggler (CSS animation)</a></li>
         <li><a href="https://github.com/AlexandraKon/WebPage-BITE">WebPage from Figma</a></li>
     </ul>
